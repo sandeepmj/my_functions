@@ -13,9 +13,9 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url='https://github.com/sandeepmj/my_functions',
     project_urls = {
-        "Bug Tracker": "https://github.com/mike-huls/toolbox/issues"
+        "Bug Tracker": "https://github.com/sandeepmj/my_functions/issues"
     },
     license='MIT',
-    packages=['toolbox'],
+    packages=['my_functions'],
     install_requires=['requests'],
 )
