@@ -2,7 +2,7 @@ def addNumbers(number1, number2):
 	'''
 	provide two numbers and i'll add them together
 	'''
-	return number1 + number2
+	return (number1 + number2) * 2
 
 def x2(number1, number2):
 	return number1 * number2
