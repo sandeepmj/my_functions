@@ -4,7 +4,8 @@ def addNumbers(number1, number2):
 	'''
 	return number1 + number2
 
-
+def x2(number1, number2):
+	return number1 * number2
 
 
 def helloPerson(name):
