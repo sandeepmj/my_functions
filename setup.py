@@ -18,7 +18,6 @@ setuptools.setup(
     license='MIT',
     packages=['my_functions'],
     install_requires=['requests',
-    'time'
     ],
 )
 
