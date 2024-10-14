@@ -2,4 +2,4 @@
 # in stead of from ppack.functions import average
 
 
-from .functions import addNumbers, helloPerson
+from .functions import addNumbers, helloPerson, x2, timer
